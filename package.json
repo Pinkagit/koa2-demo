@@ -9,7 +9,7 @@
     "watch": "cross-env NODE_ENV=development supervisor app.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cross-env": "^5.2.0",
     "koa": "^2.7.0",
     "koa-body": "^4.1.0",
